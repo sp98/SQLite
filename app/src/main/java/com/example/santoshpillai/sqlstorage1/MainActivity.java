@@ -7,7 +7,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.EditText;
 
-
+// This is a git test
 public class MainActivity extends ActionBarActivity {
 
     MyDBAdapter adapter;
