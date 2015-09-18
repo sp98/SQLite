@@ -8,6 +8,8 @@ import android.view.View;
 import android.widget.EditText;
 
 // This is a git test
+// This is a git test 2
+
 public class MainActivity extends ActionBarActivity {
 
     MyDBAdapter adapter;
